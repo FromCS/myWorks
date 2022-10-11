@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/FromCS/myWorks/issues"
   },
-  "homepage": "https://github.com/FromCS/myWorks#readme"
+  "homepage": "https://github.com/FromCS/myWorks#readme",
+  "devDependencies": {
+    "jest": "^27.2.5"
+  }
 }
