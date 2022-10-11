@@ -1,0 +1,23 @@
+{
+  "name": "independent-works",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FromCS/myWorks.git"
+  },
+  "author": "FromCS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FromCS/myWorks/issues"
+  },
+  "homepage": "https://github.com/FromCS/myWorks#readme"
+}
